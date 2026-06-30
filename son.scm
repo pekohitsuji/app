@@ -1,5 +1,5 @@
 (define-library (app son)
-;;; -*- coding: utf-8-unix; mode: scheme -*-
+;;; -*- coding: utf-8-unix; mode: scheme; -*-
   (import (scheme base))  ; string-append, string-length, symbol->string
   (import (scheme list))  ; zip fold
   (import (scheme read))  ; read

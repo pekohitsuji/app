@@ -1,4 +1,4 @@
-;;; -*- coding: utf-8-unix; mode: scheme -*-
+;;; -*- coding: utf-8-unix; mode: scheme; -*-
 (import (scheme base))
 (import (scheme show))
 (import (scheme process-context))
